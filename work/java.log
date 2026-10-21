@@ -1,0 +1,10 @@
+[main] INFO io.javalin.Javalin - Starting Javalin ...
+[main] INFO org.eclipse.jetty.server.Server - jetty-12.1.12; built: 2026-08-03T22:37:55.389Z; git: 10dd3948f37767b84cc2c62358364f042e51dbbe; jvm 25.0.4.1+1-LTS
+[main] INFO org.eclipse.jetty.session.DefaultSessionIdManager - Session workerName=node0
+[main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started oeje10s.ServletContextHandler@312aa7c{ROOT,/,b=null,a=AVAILABLE,h=oeje10s.SessionHandler@536f2a7e{STARTED}}
+[main] INFO org.eclipse.jetty.ee10.servlet.ServletContextHandler - Started oeje10s.ServletContextHandler@312aa7c{ROOT,/,b=null,a=AVAILABLE,h=oeje10s.SessionHandler@536f2a7e{STARTED}}
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started oejs.ServerConnector@4f0f2942{HTTP/1.1, (http/1.1)}{127.0.0.1:8080}
+[main] INFO org.eclipse.jetty.server.Server - Started oejs.Server@5340477f{STARTING}[12.1.12,sto=0] @94ms
+[main] INFO io.javalin.Javalin - Javalin started in 345ms \o/
+[main] INFO io.javalin.Javalin - Listening on http://127.0.0.1:8080/
+[main] INFO io.javalin.Javalin - You are running Javalin 7.2.3 (released August 11, 2026).

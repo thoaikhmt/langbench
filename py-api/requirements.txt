@@ -1,0 +1,5 @@
+fastapi==0.156.8
+uvicorn==0.54.0
+orjson==3.13.0
+uvloop
+httptools

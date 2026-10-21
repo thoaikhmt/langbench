@@ -1,0 +1,20 @@
+# Build outputs
+go-api/api
+rust-api/target/
+java-api/target/
+
+# Language runtimes / dependencies
+py-api/.venv/
+ts-api/node_modules/
+__pycache__/
+*.pyc
+
+# Generated benchmark databases (seed.db is kept for convenience)
+work/*.db
+work/*.db-wal
+work/*.db-shm
+*.db-wal
+*.db-shm
+
+# OS/editor noise
+.DS_Store
